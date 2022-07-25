@@ -7202,11 +7202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anil\\Downloads\\ZoomCars\\VroomCars\\ZoomCars\\ZoomCars.csproj",
+      "projectUniqueName": "C:\\Users\\Anil\\Downloads\\VroomCars\\VroomCars\\ZoomCars\\ZoomCars.csproj",
       "projectName": "ZoomCars",
-      "projectPath": "C:\\Users\\Anil\\Downloads\\ZoomCars\\VroomCars\\ZoomCars\\ZoomCars.csproj",
+      "projectPath": "C:\\Users\\Anil\\Downloads\\VroomCars\\VroomCars\\ZoomCars\\ZoomCars.csproj",
       "packagesPath": "C:\\Users\\Anil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anil\\Downloads\\ZoomCars\\VroomCars\\ZoomCars\\obj\\",
+      "outputPath": "C:\\Users\\Anil\\Downloads\\VroomCars\\VroomCars\\ZoomCars\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
