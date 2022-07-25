@@ -7196,19 +7196,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\BALAMAHENDIRA\\.nuget\\packages\\": {}
+    "C:\\Users\\Anil\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\ZoomCars\\ZoomCars\\ZoomCars.csproj",
+      "projectUniqueName": "C:\\Users\\Anil\\Downloads\\ZoomCars\\ZoomCars\\ZoomCars\\ZoomCars.csproj",
       "projectName": "ZoomCars",
-      "projectPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\ZoomCars\\ZoomCars\\ZoomCars.csproj",
-      "packagesPath": "C:\\Users\\BALAMAHENDIRA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BALAMAHENDIRA\\source\\repos\\ZoomCars\\ZoomCars\\obj\\",
+      "projectPath": "C:\\Users\\Anil\\Downloads\\ZoomCars\\ZoomCars\\ZoomCars\\ZoomCars.csproj",
+      "packagesPath": "C:\\Users\\Anil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Anil\\Downloads\\ZoomCars\\ZoomCars\\ZoomCars\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\BALAMAHENDIRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Anil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
